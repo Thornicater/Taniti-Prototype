@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Yeseva One_23.0.0_google";
+  src: url("../../../fonts/Yeseva One-Regular_23.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Lato_24.0.0_google";
+  src: url("../../../fonts/Lato-Regular_24.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Arial Rounded MT Bold_1.51.0_system";
+  src: url("../../../fonts/Arial Rounded MT Bold-Bold_1.51.0_system.ttf");
+  font-weight: 700; 
+  font-display: swap;
+}
